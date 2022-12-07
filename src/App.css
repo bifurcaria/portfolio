@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@300;500&display=swap');
+
+* {
+  font-family: 'Archivo', sans-serif !important
+}
+
+.ui.huge.header{
+  font-size: 10em !important;
+}
+
+.ui.secondary.vertical.pointing.menu{
+  border:none !important
+}
+
+.ui.secondary.vertical.pointing.menu .item{
+  text-align: end;
+  border-right-style: hidden !important;
+}
+
+.ui.images {
+  font-size: 0;
+  margin: 0 -0.25rem 0;
+  display: flex;
+  /*justify-content: center*/
+}
+

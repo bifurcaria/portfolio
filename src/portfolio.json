@@ -1,0 +1,147 @@
+[
+    {
+        "name": "dev",
+        "items": [
+            {
+                "title": "burgerqueen",
+                "images": [
+                    "https://react.semantic-ui.com/images/wireframe/image.png",
+                    "https://react.semantic-ui.com/images/wireframe/image.png",
+                    "https://react.semantic-ui.com/images/wireframe/image.png"
+                ],
+                "desc": "asad"
+            },
+            {
+                "title": "ggirls",
+                "images": [
+                    "https://react.semantic-ui.com/images/wireframe/image.png",
+                    "https://react.semantic-ui.com/images/wireframe/image.png",
+                    "https://react.semantic-ui.com/images/wireframe/image.png"
+                ],
+                "desc": "asadsdsd"
+            },
+            {
+                "title": "pong",
+                "images": [
+                    "https://react.semantic-ui.com/images/wireframe/image.png",
+                    "https://react.semantic-ui.com/images/wireframe/image.png",
+                    "https://react.semantic-ui.com/images/wireframe/image.png"
+                ],
+                "desc": "asadsdsd"
+            }
+        ]
+    },
+    {
+        "name": "gráfica",
+        "items": [
+            {
+                "title": "afiches",
+                "images": [
+                    "https://react.semantic-ui.com/images/wireframe/image.png",
+                    "https://react.semantic-ui.com/images/wireframe/image.png",
+                    "https://react.semantic-ui.com/images/wireframe/image.png"
+                ],
+                "desc": "asad"
+            },
+            {
+                "title": "ilustraciones",
+                "images": [
+                    "https://react.semantic-ui.com/images/wireframe/image.png",
+                    "https://react.semantic-ui.com/images/wireframe/image.png",
+                    "https://react.semantic-ui.com/images/wireframe/image.png"
+                ],
+                "desc": "asadsdsd"
+            },
+            {
+                "title": "tipografía",
+                "images": [
+                    "https://react.semantic-ui.com/images/wireframe/image.png"
+                ],
+                "desc": "asadsdsd"
+            }
+        ]
+    },
+    {
+        "name": "editorial",
+        "items": [
+            {
+                "title": "laboratorio de lo posible",
+                "images": [
+                    "https://react.semantic-ui.com/images/wireframe/image.png"
+                ],
+                "desc": "asad"
+            },
+            {
+                "title": "manifiesto",
+                "images": [
+                    "https://react.semantic-ui.com/images/wireframe/image.png"
+                ],
+                "desc": "asadsdsd"
+            }
+        ]
+    },
+    {
+        "name": "imprenta",
+        "items": [
+            {
+                "title": "agenda feminarias",
+                "images": [
+                    "https://react.semantic-ui.com/images/wireframe/image.png"
+                ],
+                "desc": "asad"
+            },
+            {
+                "title": "libro morado mujeres",
+                "images": [
+                    "https://react.semantic-ui.com/images/wireframe/image.png"
+                ],
+                "desc": "asadsdsd"
+            },
+            {
+                "title": "libros dom publico",
+                "images": [
+                    "https://react.semantic-ui.com/images/wireframe/image.png"
+                ],
+                "desc": "asadsdsd"
+            }
+        ]
+    },
+    {
+        "name": "design studies",
+        "items": [
+            {
+                "title": "3d digital",
+                "images": [
+                    "https://react.semantic-ui.com/images/wireframe/image.png"
+                ],
+                "desc": "asad"
+            },
+            {
+                "title": "making of a book",
+                "images": [
+                    "https://react.semantic-ui.com/images/wireframe/image.png"
+                ],
+                "desc": "asadsdsd"
+            },
+            {
+                "title": "wireframes",
+                "images": [
+                    "https://react.semantic-ui.com/images/wireframe/image.png"
+                ],
+                "desc": "asadsdsd"
+            }
+        ]
+    },
+    {
+        "name": "science",
+        "items": [
+            {
+                "title": "unidad",
+                "images": [
+                    "https://react.semantic-ui.com/images/wireframe/image.png"
+                ],
+                "desc": "asad"
+            }
+        ]
+    }
+]

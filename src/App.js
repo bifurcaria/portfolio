@@ -17,9 +17,11 @@ function App() {
       <Menu text id="nav" key="navigation" >
         <Menu.Item
           name='github'
+          href='https://github.com/bifurcaria'
         />
         <Menu.Item
           name='linkedin'
+          href='https://www.linkedin.com/in/bifurcaria/'
         />
         <Menu.Menu position='right'>
           <Menu.Item
@@ -35,15 +37,16 @@ function App() {
         <p>Front-end Dev & Graphic Artist</p>
       </Container>
 
-<Sticky >
-      <Container key="menu" style={{ display: 'flex', justifyContent: 'flex-end' }}>
+
+      <Container key="menu" style={{ display: 'flex', justifyContent: 'flex-end', position: 'sticky',
+    top: '-1px'}}>
         <Menu pointing secondary vertical attached='bottom'>
           {portfolio.length > 0 && portfolio.map(element => {
             const { name } = element;
             return (
               <Menu.Item
                 name={name}
-                href='#hola1'
+                href={`#${name}`}
                 active={activeItem === 'name'}
                 onClick={() => setActiveItem("name")} />
             )
@@ -51,13 +54,13 @@ function App() {
 
         </Menu>
       </Container>
-      </Sticky>
+
       {portfolio.length > 0 && portfolio.map(element => {
         const { name, items } = element;
         return (
           <Container key={name}>
             <Divider hidden />
-            <Header as="h2" id='hola1'>{name}</Header>
+            <Header as="h2" id={name}>{name}</Header>
 
             {items.map(element => {
               const { desc, images, title } = element

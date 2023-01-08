@@ -22,9 +22,9 @@
             {
                 "title": "pong",
                 "images": [
-                    "https://react.semantic-ui.com/images/wireframe/image.png",
-                    "https://react.semantic-ui.com/images/wireframe/image.png",
-                    "https://react.semantic-ui.com/images/wireframe/image.png"
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-32.png",
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-34.png",
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-34.png"
                 ],
                 "desc": "asadsdsd"
             }
@@ -36,25 +36,26 @@
             {
                 "title": "afiches",
                 "images": [
-                    "https://react.semantic-ui.com/images/wireframe/image.png",
-                    "https://react.semantic-ui.com/images/wireframe/image.png",
-                    "https://react.semantic-ui.com/images/wireframe/image.png"
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-12.png",
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-13.png",
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-14.png"
                 ],
                 "desc": "asad"
             },
             {
                 "title": "ilustraciones",
                 "images": [
-                    "https://react.semantic-ui.com/images/wireframe/image.png",
-                    "https://react.semantic-ui.com/images/wireframe/image.png",
-                    "https://react.semantic-ui.com/images/wireframe/image.png"
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-15.png",
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-16.png",
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-17.png"
                 ],
                 "desc": "asadsdsd"
             },
             {
                 "title": "tipografía",
                 "images": [
-                    "https://react.semantic-ui.com/images/wireframe/image.png"
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-35.png",
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-37.png"
                 ],
                 "desc": "asadsdsd"
             }
@@ -66,14 +67,19 @@
             {
                 "title": "laboratorio de lo posible",
                 "images": [
-                    "https://react.semantic-ui.com/images/wireframe/image.png"
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-03.png",
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-05.png",
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-04.png"
                 ],
                 "desc": "asad"
             },
             {
-                "title": "manifiesto",
+                "title": "las cosas van más lento",
                 "images": [
-                    "https://react.semantic-ui.com/images/wireframe/image.png"
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-27.png",
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-28.png",
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-29.png",
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-31.png"
                 ],
                 "desc": "asadsdsd"
             }
@@ -83,23 +89,20 @@
         "name": "imprenta",
         "items": [
             {
-                "title": "agenda feminarias",
+                "title": "impresión de libros de dominio público",
                 "images": [
-                    "https://react.semantic-ui.com/images/wireframe/image.png"
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-18.png",
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-19.png",
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-20.png"
                 ],
                 "desc": "asad"
             },
             {
-                "title": "libro morado mujeres",
+                "title": "pequeños tirajes para distintas agrupaciones",
                 "images": [
-                    "https://react.semantic-ui.com/images/wireframe/image.png"
-                ],
-                "desc": "asadsdsd"
-            },
-            {
-                "title": "libros dom publico",
-                "images": [
-                    "https://react.semantic-ui.com/images/wireframe/image.png"
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-23.png",
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-22.png",
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-21.png"
                 ],
                 "desc": "asadsdsd"
             }
@@ -111,21 +114,21 @@
             {
                 "title": "3d digital",
                 "images": [
-                    "https://react.semantic-ui.com/images/wireframe/image.png"
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-02.png"
                 ],
                 "desc": "asad"
             },
             {
                 "title": "making of a book",
                 "images": [
-                    "https://react.semantic-ui.com/images/wireframe/image.png"
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-02.png"
                 ],
                 "desc": "asadsdsd"
             },
             {
                 "title": "wireframes",
                 "images": [
-                    "https://react.semantic-ui.com/images/wireframe/image.png"
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-02.png"
                 ],
                 "desc": "asadsdsd"
             }
@@ -137,7 +140,7 @@
             {
                 "title": "unidad",
                 "images": [
-                    "https://react.semantic-ui.com/images/wireframe/image.png"
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-02.png"
                 ],
                 "desc": "asad"
             }

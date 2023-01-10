@@ -8,8 +8,10 @@
   font-size: 10em !important;
 }
 
+
 .ui.secondary.vertical.pointing.menu{
-  border:none !important
+  border:none !important;
+  position: absolute;
 }
 
 .ui.secondary.vertical.pointing.menu .item{
@@ -17,10 +19,21 @@
   border-right-style: hidden !important;
 }
 
+.ui.medium.images .image{
+  width: auto !important;
+}
+
+.ui.medium.images {
+  height: 250px;
+}
+
 .ui.images {
   font-size: 0;
   margin: 0 -0.25rem 0;
   display: flex;
-  /*justify-content: center*/
+  justify-content: space-between;
 }
 
+.jsoncontainer {
+  padding-right: 200px;
+}

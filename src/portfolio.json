@@ -1,148 +1,141 @@
 [
     {
-        "name": "dev",
+        "name": "Dev",
         "items": [
             {
-                "title": "burgerqueen",
+                "title": "Burgerqueen",
                 "images": [
                     "https://react.semantic-ui.com/images/wireframe/image.png",
                     "https://react.semantic-ui.com/images/wireframe/image.png",
                     "https://react.semantic-ui.com/images/wireframe/image.png"
                 ],
-                "desc": "asad"
+                "desc": "Responsive application to take and manage restaurant orders from a tablet. Developed in JavaScript (ES6+) + React.js using Firebase and Semantic UI React."
             },
             {
-                "title": "ggirls",
+                "title": "/gggirls",
                 "images": [
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-06.png",
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-07.png"
                 ],
-                "desc": "asadsdsd"
+                "desc": "Single page application consisting of a social network where you can post and give likes. Built using JavaScript (ES6+), CSS and Firebase. Prototypes in Adobe Illustrator and Figma. Third project for cohort SCL021 of Laboratoria."
             },
             {
-                "title": "pong",
+                "title": "Pong",
                 "images": [
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-32.png",
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-34.png",
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-34.png"
                 ],
-                "desc": "asadsdsd"
+                "desc": "Implementation of a basic pong game in Processing v4.0b2. Written for Arduino UNO and controlled with a potentiometer. Mid-semester project done on one day as part of the AUD5i022-2022-1 course."
             }
         ]
     },
     {
-        "name": "gráfica",
+        "name": "Graphic",
         "items": [
             {
-                "title": "afiches",
+                "title": "Posters",
                 "images": [
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-12.png",
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-13.png",
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-14.png"
                 ],
-                "desc": "asad"
+                "desc": "Posters designed for events, concerts and as college projects. Adobe Illustrator + Photoshop."
             },
             {
-                "title": "ilustraciones",
+                "title": "Illustration",
                 "images": [
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-15.png",
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-16.png",
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-17.png"
                 ],
-                "desc": "asadsdsd"
+                "desc": "Personal work and editorial design. Using Adobe Illustrator, Photoshop and Blender 3D."
             },
             {
-                "title": "tipografía",
+                "title": "Typography",
                 "images": [
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-35.png",
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-37.png"
                 ],
-                "desc": "asadsdsd"
+                "desc": "My first typeface. Project developed within the Proyecto V course and based on handmade store signs of downtown Santiago."
             }
         ]
     },
     {
-        "name": "editorial",
+        "name": "Editorial",
         "items": [
             {
-                "title": "laboratorio de lo posible",
+                "title": "Laboratorio de lo posible",
                 "images": [
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-03.png",
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-05.png",
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-04.png"
                 ],
-                "desc": "asad"
+                "desc": "Fanzine crafted during the Proyecto IV course. We had as a starting point the idea of utopia, in this case related to the multiple possibilities of literature."
             },
             {
-                "title": "las cosas van más lento",
+                "title": "Las cosas van más lento",
                 "images": [
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-27.png",
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-28.png",
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-29.png",
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-31.png"
                 ],
-                "desc": "asadsdsd"
+                "desc": "Plaquette. Printed and crafted as a part of the Proyecto V course. Collages and personal writings about the experience of studying, working, being tired and looking for a work-life balance."
             }
         ]
     },
     {
-        "name": "imprenta",
+        "name": "Bookbinding",
         "items": [
             {
-                "title": "impresión de libros de dominio público",
+                "title": "Public domain books",
                 "images": [
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-18.png",
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-19.png",
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-20.png"
                 ],
-                "desc": "asad"
+                "desc": "Printing + crafting public domain books on demand, with custom covers and interiors."
             },
             {
-                "title": "pequeños tirajes para distintas agrupaciones",
+                "title": "Small print runs",
                 "images": [
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-23.png",
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-22.png",
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-21.png"
                 ],
-                "desc": "asadsdsd"
+                "desc": "Printing and production of small editions of books for independent organizations and self-published authors."
             }
         ]
     },
     {
-        "name": "design studies",
+        "name": "Design studies",
         "items": [
             {
-                "title": "3d digital",
+                "title": "3d modeling",
                 "images": [
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-02.png"
                 ],
-                "desc": "asad"
+                "desc": "Creation of implements for different users. research, prototyping and 3D modeling using Blender. For the course Proyecto III."
             },
             {
-                "title": "making of a book",
+                "title": "Making of a book",
                 "images": [
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-02.png"
                 ],
-                "desc": "asadsdsd"
-            },
-            {
-                "title": "wireframes",
-                "images": [
-                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-02.png"
-                ],
-                "desc": "asadsdsd"
+                "desc": "Studies on processes and prototyping, both graphic and web. Two semesters."
             }
         ]
     },
     {
-        "name": "science",
+        "name": "Science studies",
         "items": [
             {
-                "title": "unidad",
+                "title": "Passive detection threshold of Limonene in WT and FMR mice",
                 "images": [
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-02.png"
                 ],
-                "desc": "asad"
+                "desc": "Studies of behavior and data management in MATLAB and GraphPad. Cellular Physiology Laboratory."
             }
         ]
     }

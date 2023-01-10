@@ -65,7 +65,7 @@ function App() {
             {items.map(element => {
               const { desc, images, title } = element
               return (
-                <Container key={title}>
+                <Container key={title} className='jsoncontainer'>
                   <Header as="h4">{title}</Header>
                   <Image.Group size='medium'>
                     {images.map(element => {

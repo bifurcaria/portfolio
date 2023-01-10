@@ -3,11 +3,10 @@
         "name": "Dev",
         "items": [
             {
-                "title": "Burgerqueen",
+                "title": "BurgerQueen",
                 "images": [
-                    "https://react.semantic-ui.com/images/wireframe/image.png",
-                    "https://react.semantic-ui.com/images/wireframe/image.png",
-                    "https://react.semantic-ui.com/images/wireframe/image.png"
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-38.png",
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-39.png"
                 ],
                 "desc": "Responsive application to take and manage restaurant orders from a tablet. Developed in JavaScript (ES6+) + React.js using Firebase and Semantic UI React."
             },
@@ -23,7 +22,7 @@
                 "title": "Pong",
                 "images": [
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-32.png",
-                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-34.png",
+                    "https://im.ezgif.com/tmp/ezgif-1-4c03648559.gif",
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-34.png"
                 ],
                 "desc": "Implementation of a basic pong game in Processing v4.0b2. Written for Arduino UNO and controlled with a potentiometer. Mid-semester project done on one day as part of the AUD5i022-2022-1 course."
@@ -34,15 +33,6 @@
         "name": "Graphic",
         "items": [
             {
-                "title": "Posters",
-                "images": [
-                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-12.png",
-                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-13.png",
-                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-14.png"
-                ],
-                "desc": "Posters designed for events, concerts and as college projects. Adobe Illustrator + Photoshop."
-            },
-            {
                 "title": "Illustration",
                 "images": [
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-15.png",
@@ -52,8 +42,18 @@
                 "desc": "Personal work and editorial design. Using Adobe Illustrator, Photoshop and Blender 3D."
             },
             {
+                "title": "Posters",
+                "images": [
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-12.png",
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-13.png",
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-14.png"
+                ],
+                "desc": "Posters designed for events, concerts and as college projects. Adobe Illustrator + Photoshop."
+            },
+            {
                 "title": "Typography",
                 "images": [
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-36.png",
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-35.png",
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-37.png"
                 ],
@@ -112,28 +112,39 @@
         "name": "Design studies",
         "items": [
             {
+                "title": "Composition exercises",
+                "images": [
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-08.png",
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-09.png"
+                ],
+                "desc": "Visual composition exercises using different techniques such as collage, ink, embroidery and digital editing in photoshop."
+            },
+            {
                 "title": "3d modeling",
                 "images": [
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio_Mesa de trabajo 1.png",
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-02.png"
                 ],
                 "desc": "Creation of implements for different users. research, prototyping and 3D modeling using Blender. For the course Proyecto III."
             },
             {
-                "title": "Making of a book",
+                "title": "Process + prototyping",
                 "images": [
-                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-02.png"
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-10.png",
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-11.png"
                 ],
                 "desc": "Studies on processes and prototyping, both graphic and web. Two semesters."
             }
         ]
     },
     {
-        "name": "Science studies",
+        "name": "Science/bio studies",
         "items": [
             {
                 "title": "Passive detection threshold of Limonene in WT and FMR mice",
                 "images": [
-                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-02.png"
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio_Mesa de trabajo 1-41.png",
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio_Mesa de trabajo 1-40.png"
                 ],
                 "desc": "Studies of behavior and data management in MATLAB and GraphPad. Cellular Physiology Laboratory."
             }

@@ -17,14 +17,16 @@ function App() {
         <Menu.Item
           name='github'
           href='https://github.com/bifurcaria'
+          target="_blank"
         />
         <Menu.Item
           name='linkedin'
           href='https://www.linkedin.com/in/bifurcaria/'
+          target="_blank"
         />
         <Menu.Menu position='right'>
           <Popup
-            content={<div><p><a href="mailto:c.carlajm@gmail.com">c.carlajm@gmail.com</a></p><p><a href='https://wa.me/+56993106799'>+569 9310 6799</a></p></div>}
+            content={<div><p><a href="mailto:c.carlajm@gmail.com" target="_blank">c.carlajm@gmail.com</a></p><p><a href='https://wa.me/+56993106799' target="_blank">+569 9310 6799</a></p></div>}
             on='click'
             position='bottom right'
             style={{border:'none', boxShadow:'none',textAlign: 'end',padding:'0'}}

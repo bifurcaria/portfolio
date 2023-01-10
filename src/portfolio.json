@@ -22,7 +22,7 @@
                 "title": "Pong",
                 "images": [
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-32.png",
-                    "https://im.ezgif.com/tmp/ezgif-1-4c03648559.gif",
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/ezgif-1-4c03648559.gif",
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-34.png"
                 ],
                 "desc": "Implementation of a basic pong game in Processing v4.0b2. Written for Arduino UNO and controlled with a potentiometer. Mid-semester project done on one day as part of the AUD5i022-2022-1 course."
@@ -95,7 +95,7 @@
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-19.png",
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-20.png"
                 ],
-                "desc": "Printing + crafting public domain books on demand, with custom covers and interiors."
+                "desc": "Printing + crafting public domain books on demand, with custom cover design and interiors."
             },
             {
                 "title": "Small print runs",

@@ -4,6 +4,10 @@
   font-family: 'Archivo', sans-serif !important
 }
 
+a{
+color:black !important; 
+}
+
 .ui.huge.header{
   font-size: 10em !important;
 }

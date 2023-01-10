@@ -1,14 +1,13 @@
 import './App.css';
 import 'semantic-ui-css/semantic.min.css'
 import React, { useState } from 'react'
-import { Container, Header, Menu, Image, Divider, Sticky } from 'semantic-ui-react'
+import { Container, Header, Menu, Image, Divider, Popup } from 'semantic-ui-react'
 import portfolio from './portfolio.json'
 
 
 function App() {
 
   const [activeItem, setActiveItem] = useState('closest')
-  const src = 'https://react.semantic-ui.com/images/wireframe/image.png'
 
   return (
 
@@ -24,9 +23,18 @@ function App() {
           href='https://www.linkedin.com/in/bifurcaria/'
         />
         <Menu.Menu position='right'>
-          <Menu.Item
-            name='Contact'
+          <Popup
+            content={<div><p><a href="mailto:c.carlajm@gmail.com">c.carlajm@gmail.com</a></p><p><a href='https://wa.me/+56993106799'>+569 9310 6799</a></p></div>}
+            on='click'
+            position='bottom right'
+            style={{border:'none', boxShadow:'none',textAlign: 'end',padding:'0'}}
+            basic
+            pinned
+            trigger={<Menu.Item
+              name='Contact'
+            />}
           />
+
         </Menu.Menu>
 
       </Menu>
@@ -38,8 +46,10 @@ function App() {
       </Container>
 
 
-      <Container key="menu" style={{ display: 'flex', justifyContent: 'flex-end', position: 'sticky',
-    top: '-1px'}}>
+      <Container key="menu" style={{
+        display: 'flex', justifyContent: 'flex-end', position: 'sticky',
+        top: '-1px'
+      }}>
         <Menu pointing secondary vertical attached='bottom'>
           {portfolio.length > 0 && portfolio.map(element => {
             const { name } = element;

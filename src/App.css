@@ -41,3 +41,31 @@ color:black !important;
 .jsoncontainer {
   padding-right: 200px;
 }
+
+@media only screen and (max-width: 600px)
+{
+.ui.medium.images {
+  height: auto;
+  display: contents;
+}
+
+.ui.huge.header {
+  font-size: 3.4em !important;
+}
+
+.jsoncontainer{
+    padding:0 !important;
+}
+.ui.secondary.vertical.pointing.menu {
+    display: none;
+}
+
+.ui.medium.images .image{
+  text-align: center;
+}
+}
+
+
+
+
+

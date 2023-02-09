@@ -8,7 +8,8 @@
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-38.png",
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-39.png"
                 ],
-                "desc": "Responsive application to take and manage restaurant orders from a tablet. Developed in JavaScript (ES6+) + React.js using Firebase and Semantic UI React."
+                "desc": "Responsive application to take and manage restaurant orders from a tablet. Developed in JavaScript (ES6+) + React.js using Firebase and Semantic UI React.",
+                "link": "https://github.com/bifurcaria/SCL021-burger-queen"
             },
             {
                 "title": "/gggirls",
@@ -16,7 +17,8 @@
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-06.png",
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-07.png"
                 ],
-                "desc": "Single page application consisting of a social network where you can post and give likes. Built using JavaScript (ES6+), CSS and Firebase. Prototypes in Adobe Illustrator and Figma. Third project for cohort SCL021 of Laboratoria."
+                "desc": "Single page application consisting of a social network where you can post and give likes. Built using JavaScript (ES6+), CSS and Firebase. Prototypes in Adobe Illustrator and Figma. Third project for cohort SCL021 of Laboratoria.",
+                "link": "https://bifurcaria.github.io/SCL021-social-network/src/index.html"
             },
             {
                 "title": "Pong",
@@ -25,7 +27,8 @@
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/ezgif-1-4c03648559.gif",
                     "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/portafolio-34.png"
                 ],
-                "desc": "Implementation of a basic pong game in Processing v4.0b2. Written for Arduino UNO and controlled with a potentiometer. Mid-semester project done on one day as part of the AUD5i022-2022-1 course."
+                "desc": "Implementation of a basic pong game in Processing v4.0b2. Written for Arduino UNO and controlled with a potentiometer. Mid-semester project done on one day as part of the AUD5i022-2022-1 course.",
+                "link": "https://github.com/carlajmatus/pongprocessing"
             }
         ]
     },

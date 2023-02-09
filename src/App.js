@@ -26,10 +26,10 @@ function App() {
         />
         <Menu.Menu position='right'>
           <Popup
-            content={<div><p><a href="mailto:c.carlajm@gmail.com" target="_blank">c.carlajm@gmail.com</a></p><p><a href='https://wa.me/+56993106799' target="_blank">+569 9310 6799</a></p></div>}
+            content={<div><p><a href="mailto:c.carlajm@gmail.com" target="_blank" rel="noopener noreferrer">c.carlajm@gmail.com</a></p><p><a href='https://wa.me/+56993106799' target="_blank">+569 9310 6799</a></p></div>}
             on='click'
             position='bottom right'
-            style={{border:'none', boxShadow:'none',textAlign: 'end',padding:'0'}}
+            style={{ border: 'none', boxShadow: 'none', textAlign: 'end', padding: '0' }}
             basic
             pinned
             trigger={<Menu.Item
@@ -75,7 +75,15 @@ function App() {
             <Header as="h2" id={name}>{name}</Header>
 
             {items.map(element => {
-              const { desc, images, title } = element
+              const { desc, images, title, link } = element
+              let ref = <span> Check it <u><a href={link}>here</a></u>.</span>
+              
+              function hasLinks(obj) {
+                if (link) {
+                  return ref
+                }
+              }
+
               return (
                 <Container key={title} className='jsoncontainer'>
                   <Header as="h4">{title}</Header>
@@ -86,7 +94,7 @@ function App() {
                       )
                     })}
                   </Image.Group>
-                  <p>{desc}</p>
+                  <p>{desc}{hasLinks(element)}</p>
                   <Divider hidden />
                 </Container>
 

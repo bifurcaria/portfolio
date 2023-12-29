@@ -87,13 +87,13 @@ function App() {
               return (
                 <Container key={title} className='jsoncontainer'>
                   <Header as="h4">{title}</Header>
-                  <Image.Group size='medium'>
+                  {images && <Image.Group size='medium'>
                     {images.map(element => {
                       return (
                         <Image key={element} src={element} />
                       )
                     })}
-                  </Image.Group>
+                  </Image.Group>}
                   <p>{desc}{hasLinks(element)}</p>
                   <Divider hidden />
                 </Container>

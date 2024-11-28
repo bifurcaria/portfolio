@@ -32,7 +32,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Pull latest changes
-        run: git pull origin main
+        run: git pull origin gh-pages
       - name: Build project
         run: npm run build
       - name: Setup Pages

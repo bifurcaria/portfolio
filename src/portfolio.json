@@ -5,11 +5,18 @@
             {
                 "title": "Sotos",
                 "desc": "A second-hand clothing marketplace. I was involved in the implementation of almost every application view. We had the best time :-). React Native + Typescript + GraphQL.",
-                "link": "https://sotos.app/"
+                "link": "https://sotos.app/",
+                "images": [
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/FEED.jpg",
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/EXPLORE.jpg",
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/LISTING.jpg",
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/RESULTS.jpg",
+                    "https://raw.githubusercontent.com/bifurcaria/portfolio/main/src/imgportafolio/NEWLISTING.jpg"
+                ]
             },
             {
                 "title": "et AI.",
-                "desc": "AI tool for browsing academic literature.",
+                "desc": "AI tool for browsing academic literature. We made this in ~36 hrs @ platanus hack. Slept like 2 hours during the whole event.",
                 "link": "https://etai-front-wine.vercel.app/"
             },
             {

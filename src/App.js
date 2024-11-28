@@ -2,7 +2,7 @@ import './App.css';
 import 'semantic-ui-css/semantic.min.css'
 import React, { useState } from 'react'
 import { Container, Header, Menu, Image, Divider, Popup } from 'semantic-ui-react'
-import portfolio from './portfolio.json'
+import portfolio from "./portfolio.json"
 
 
 function App() {
@@ -77,7 +77,7 @@ function App() {
             {items.map(element => {
               const { desc, images, title, link } = element
               let ref = <span> Check it <u><a href={link}>here</a></u>.</span>
-              
+
               function hasLinks(obj) {
                 if (link) {
                   return ref

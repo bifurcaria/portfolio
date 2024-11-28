@@ -1,6 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
+  "main": "index.js",
   "private": true,
   "homepage": "https://bifurcaria.github.io/portfolio",
   "dependencies": {
